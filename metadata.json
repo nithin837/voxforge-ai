@@ -1,0 +1,8 @@
+{
+  "name": "VOXFORGE AI",
+  "description": "Give Every Story a Voice. Professional AI voiceover studio with Telugu Unicode, Roman Telugu optimization, long-script chunking, and WAV/MP3 mastering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
